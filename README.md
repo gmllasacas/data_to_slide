@@ -1,4 +1,4 @@
-# Inventario
+# Data to Slide
 
 Script crea copias de un template en DRIVE y reemplaza los placeholder por datos, retorna la URL del google SLIDE.
 
