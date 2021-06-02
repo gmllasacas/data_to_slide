@@ -2,6 +2,7 @@
 documentos/*
 credentials/*
 !documentos/index.html
+!credentials/index.html
 !documentos/.htaccess
 error.log
 
