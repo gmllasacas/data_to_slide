@@ -38,7 +38,7 @@ php auth.php
 
 - Se sigue la URL generada y se da los permisos necesarios para la aplicacion, luego se copia el texto de respuesta de google y esto genera el archivo json.
 
-- Crear o copiar las plantillas base (carpeta documentos) y publicarlas en Google Drive, luego usar la opcion de 'Save as Google Slides' desde el menu de Google Slides
+- Crear o copiar las plantillas base (carpeta documents) y publicarlas en Google Drive, luego usar la opcion de 'Save as Google Slides' desde el menu de Google Slides
 
 - Las imagenes que se van a utilizar deben tener acceso publico
 
