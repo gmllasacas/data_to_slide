@@ -1,0 +1,10 @@
+#Documentos creados
+documentos/*
+credentials/*
+!documentos/index.html
+!documentos/.htaccess
+error.log
+
+#Composer
+vendor/
+composer.lock
